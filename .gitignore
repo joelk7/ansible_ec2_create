@@ -1,0 +1,6 @@
+#ignore group_vars
+group_vars/
+
+
+#ignore vault.pass
+.vault.pass
